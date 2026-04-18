@@ -2,7 +2,7 @@
 
 ## Objectif
 Ce projet analyse des données simulées pour étudier le comportement des estimateurs de régression linéaire sous différentes hypothèses.
-Il analyse l'impact de variables sur les résultats d'étudiants et predit leurs scores aux examens.
+Il analyse l'impact de variables sur les performances scolaires d'étudiants et prédit leurs scores aux examens.
 
 ## Technologies utilisées
 - R
